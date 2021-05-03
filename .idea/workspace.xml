@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eea8567b-3b01-49bc-a7eb-db2658ab32ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ORANGE_HRM_CucemberProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_test/api_runner/ApiRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_test/api_step_definitions/PetStoreDeleteRequest_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_test/api_step_definitions/PetStoreGetRequest_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_test/api_step_definitions/PetStorePostRequest_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_test/api_step_definitions/PetStorePutRequest_steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_test/pojo/PetPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/DataSource/LoginData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/DataSource/PatientRegisterData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Runners/OpenMrsRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Tests/HomePageTest/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Tests/LoginTest/AdminLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Tests/PatientRegister/PatientRegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/openMRS/Tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_pages/AddEmployeePages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_pages/DeleteEmployePages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_pages/LoginPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_pages/SearchPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_runner/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_step_definitions/AddEmployeeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_step_definitions/AddSameEmployeeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_step_definitions/LoginFunctionTestSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_step_definitions/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_step_definitions/SearchSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui_test/orangeHRM/ui_step_definitions/TestCase5Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DriverMRS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/api_feature/PetStoreGetRequest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/ui_feature/loginFunction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/ui_feature/project.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/apiConfigReader.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1px1wPd6ecDy29FrFuISPilIOwR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT\src\test\resources" />
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT\src\test\resources\feature\ui_feature" />
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT\src\test\resources\feature" />
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT" />
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api_test.pojo" />
+      <recent name="ui_test.openMRS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT\src\test\java\ui_test\openMRS" />
+      <recent name="C:\Users\odaba\Downloads\vendingMachine 6 2\vendingMachine 6\CucumberProjectGIT\src\test\java\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Get pet by id (1)">
+    <configuration name="Scenario: Create new pet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/api_feature/PetStoreGetRequest.feature" />
+      <option name="GLUE" value="api_test.api_step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ORANGE_HRM_CucemberProject" />
+      <option name="NAME_FILTER" value="^Create new pet$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create new pet$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create new pet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Delete existing pet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/api_feature/PetStoreGetRequest.feature" />
+      <option name="GLUE" value="api_test.api_step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ORANGE_HRM_CucemberProject" />
+      <option name="NAME_FILTER" value="^Delete existing pet$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Delete existing pet$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Delete existing pet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Get pet by id (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/api_feature/PetStoreGetRequest.feature" />
+      <option name="GLUE" value="api_test.api_step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="MyFramework" />
+      <option name="NAME_FILTER" value="^Get pet by id$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Get pet by id$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Get pet by id" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Update existing pet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/api_feature/PetStoreGetRequest.feature" />
+      <option name="GLUE" value="api_test.api_step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ORANGE_HRM_CucemberProject" />
+      <option name="NAME_FILTER" value="^Update existing pet$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Update existing pet$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Update existing pet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_test.api_runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api_test.api_runner" />
+      <option name="MAIN_CLASS_NAME" value="api_test.api_runner.ApiRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Get pet by id (1)" />
+        <item itemvalue="JUnit.ApiRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Update existing pet" />
+        <item itemvalue="Cucumber Java.Scenario: Create new pet" />
+        <item itemvalue="Cucumber Java.Scenario: Delete existing pet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea8567b-3b01-49bc-a7eb-db2658ab32ca" name="Default Changelist" comment="" />
+      <created>1616110167404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616110167404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="54" key="#Plugins" timestamp="1616113715323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="54" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1616113715323" />
+    <state x="225" y="63" width="1086" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616114094799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="63" width="1086" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616114094799" />
+    <state x="499" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1616114085666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1616114085666" />
+    <state x="450" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616113271666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1616113271666" />
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1618425754148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1618425754148" />
+    <state x="455" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616131464850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="455" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1616131464850" />
+    <state width="1493" height="450" key="GridCell.Tab.0.bottom" timestamp="1620020925736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.12.2560.1400@0.0.1536.824" timestamp="1619989024960" />
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.12.2560.1400@3840.12.2560.1400" timestamp="1618204767395" />
+    <state width="1493" height="450" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620020925736" />
+    <state width="1493" height="450" key="GridCell.Tab.0.center" timestamp="1620020925736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.824/3840.12.2560.1400@0.0.1536.824" timestamp="1619989024960" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824/3840.12.2560.1400@3840.12.2560.1400" timestamp="1618204767394" />
+    <state width="1493" height="450" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620020925736" />
+    <state width="1493" height="450" key="GridCell.Tab.0.left" timestamp="1620020925736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.824/3840.12.2560.1400@0.0.1536.824" timestamp="1619989024960" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824/3840.12.2560.1400@3840.12.2560.1400" timestamp="1618204767394" />
+    <state width="1493" height="450" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620020925736" />
+    <state width="1493" height="450" key="GridCell.Tab.0.right" timestamp="1620020925736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.824/3840.12.2560.1400@0.0.1536.824" timestamp="1619989024960" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824/3840.12.2560.1400@3840.12.2560.1400" timestamp="1618204767395" />
+    <state width="1493" height="450" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620020925736" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1618201000403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618201000403" />
+    <state x="572" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620021113019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620021113019" />
+    <state x="202" y="73" key="new project wizard" timestamp="1618968398584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="73" key="new project wizard/0.0.1536.824/3840.12.2560.1400@0.0.1536.824" timestamp="1618968398584" />
+    <state x="426" y="189" key="run.anything.popup" timestamp="1618808235179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="189" key="run.anything.popup/0.0.1536.824/3840.12.2560.1400@0.0.1536.824" timestamp="1618808235179" />
+  </component>
+</project>
